@@ -1,0 +1,46 @@
+html{
+	font-family: sans-serif;
+	background-color: orange;
+}
+
+p{
+	font-size: 20px;
+	margin-left: 60px;
+	margin-right: 45px;
+
+}
+
+p;em{
+	margin-left: 74px;
+	margin-right: 74px
+}
+
+li{
+	font-size: 20px;
+	margin-left: 74px;
+}
+
+em{
+	font-size: 22px;
+	font-style: unset;
+	font-weight: bold;
+	margin-top: 35px;
+	margin-bottom: 35px;
+	margin-left: 50px;
+	margin-right: 45px;
+}
+
+table{
+	font-size: 22px;
+	margin-left: 60px;
+	margin-right: 60px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: white;
+}
+
+h1{
+	margin-left: 60px;
+	margin-right: 45px;
+	color: crimson;
+}
